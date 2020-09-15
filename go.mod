@@ -1,4 +1,4 @@
-module utilities-golang
+module github.com/jajotz/utilities-golang
 
 go 1.13
 
