@@ -4,7 +4,7 @@ import (
 	"encoding"
 	"fmt"
 	"time"
-	"utilities-golang/cache"
+	"github.com/jajotz/utilities-golang/cache"
 
 	"github.com/go-redis/redis"
 	"github.com/pkg/errors"

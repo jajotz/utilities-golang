@@ -1,8 +1,8 @@
 package postgres
 
 import (
-	"utilities-golang/logs"
-	"utilities-golang/persistent"
+	"github.com/jajotz/utilities-golang/logs"
+	"github.com/jajotz/utilities-golang/persistent"
 
 	_ "github.com/go-sql-driver/mysql"
 	"github.com/jinzhu/gorm"

@@ -1,7 +1,7 @@
 package kafka_sarama
 
 import (
-	"utilities-golang/messaging"
+	"github.com/jajotz/utilities-golang/messaging"
 )
 
 func (l *Kafka) AddTopicListener(topic string, callback messaging.CallbackFunc) {

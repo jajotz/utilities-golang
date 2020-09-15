@@ -2,7 +2,7 @@ package messaging
 
 import (
 	"context"
-	"utilities-golang/util"
+	"github.com/jajotz/utilities-golang/util"
 )
 
 type CallbackFunc func([]byte) error

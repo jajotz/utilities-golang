@@ -4,8 +4,8 @@ import (
 	"sync"
 	"time"
 
-	"utilities-golang/logs"
-	"utilities-golang/messaging"
+	"github.com/jajotz/utilities-golang/logs"
+	"github.com/jajotz/utilities-golang/messaging"
 
 	"github.com/Shopify/sarama"
 	cluster "github.com/bsm/sarama-cluster"

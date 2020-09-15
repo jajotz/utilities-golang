@@ -2,7 +2,7 @@ package echokit
 
 import (
 	"io"
-	"utilities-golang/logs"
+	"github.com/jajotz/utilities-golang/logs"
 
 	"github.com/labstack/gommon/log"
 	"github.com/pkg/errors"

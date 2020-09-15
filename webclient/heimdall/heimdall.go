@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"time"
 
-	"utilities-golang/webclient"
+	"github.com/jajotz/utilities-golang/webclient"
 
 	"github.com/gojek/heimdall/httpclient"
 )

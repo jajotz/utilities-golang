@@ -1,9 +1,9 @@
 package migration
 
 import (
-	"utilities-golang/logs"
-	"utilities-golang/persistent"
-	"utilities-golang/persistent/mongo"
+	"github.com/jajotz/utilities-golang/logs"
+	"github.com/jajotz/utilities-golang/persistent"
+	"github.com/jajotz/utilities-golang/persistent/mongo"
 )
 
 const (

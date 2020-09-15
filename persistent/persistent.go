@@ -8,8 +8,8 @@ import (
 	"strings"
 	"time"
 
-	"utilities-golang/logs"
-	"utilities-golang/util"
+	"github.com/jajotz/utilities-golang/logs"
+	"github.com/jajotz/utilities-golang/util"
 
 	"github.com/jinzhu/gorm"
 	"github.com/pkg/errors"

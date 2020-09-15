@@ -3,8 +3,8 @@ package migration
 import (
 	"fmt"
 	"sort"
-	"utilities-golang/logs"
-	"utilities-golang/persistent"
+	"github.com/jajotz/utilities-golang/logs"
+	"github.com/jajotz/utilities-golang/persistent"
 
 	"github.com/pkg/errors"
 )

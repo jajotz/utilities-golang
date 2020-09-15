@@ -4,8 +4,8 @@ import (
 	"context"
 	"sync"
 	"time"
-	"utilities-golang/logs"
-	"utilities-golang/messaging"
+	"github.com/jajotz//logs"
+	"github.com/jajotz/utilities-golang/messaging"
 
 	"github.com/pkg/errors"
 	kfk "github.com/segmentio/kafka-go"

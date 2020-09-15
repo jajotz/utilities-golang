@@ -2,7 +2,7 @@ package cache
 
 import (
 	"time"
-	"utilities-golang/util"
+	"github.com/jajotz/utilities-golang/util"
 
 	"github.com/go-redis/redis"
 )

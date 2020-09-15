@@ -6,8 +6,8 @@ import (
 	"reflect"
 	"time"
 
-	"utilities-golang/logs"
-	"utilities-golang/util"
+	"github.com/jajotz/utilities-golang/logs"
+	"github.com/jajotz/utilities-golang/util"
 
 	"github.com/pkg/errors"
 	"go.mongodb.org/mongo-driver/bson"

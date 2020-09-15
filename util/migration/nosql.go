@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"sort"
 
-	"utilities-golang/logs"
-	"utilities-golang/persistent/mongo"
+	"github.com/jajotz/utilities-golang/logs"
+	"github.com/jajotz/utilities-golang/persistent/mongo"
 
 	"github.com/pkg/errors"
 	"go.mongodb.org/mongo-driver/bson"

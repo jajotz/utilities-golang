@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 	"time"
-	shared_dto "utilities-golang/shared/dto"
+	shared_dto "github.com/jajotz/utilities-golang/shared/dto"
 
 	"github.com/labstack/echo/v4"
 	newrelic "github.com/newrelic/go-agent"

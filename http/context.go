@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"utilities-golang/logs"
+	"github.com/jajotz/utilities-golang/logs"
 
 	"github.com/labstack/echo/v4"
 )
